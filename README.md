@@ -22,13 +22,13 @@ $$
 $$
 
 <p align="center">
-<img src="https://github.com/urosolia/mixed-observable-LQR/blob/main/figures/lqr.gif" width="500" />
+<img src="https://github.com/urosolia/mixed-observable-LQR/blob/main/figures/lqr.png" width="500" />
 </p>
 
 ## Example 2: Partially Observable Navigation Problem
 
 <p align="center">
-<img src="https://github.com/urosolia/mixed-observable-LQR/blob/main/figures/navigation.gif" width="500" />
+<img src="https://github.com/urosolia/mixed-observable-LQR/blob/main/figures/navigation.png" width="500" />
 </p>
 
 
