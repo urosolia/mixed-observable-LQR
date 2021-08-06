@@ -1,7 +1,5 @@
 # The Mixed-Observable Constrained Linear QuadraticRegulator Problem
 
-## Abstract 
-
 We study the problem of steering a linear time-invariant system towards a goal location that may be inferred only thought partial observations. We assume mixed observable settings, where the system's state is fully observable and the environment's state defining the goal location is only partially observable. This repo can be used to reproduce the result from [1].
 
 ## Example 1: Mixed Observable Regulation Problem
