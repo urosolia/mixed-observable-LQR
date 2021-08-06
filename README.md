@@ -5,7 +5,7 @@
 We study the problem of steering a linear time-invariant system towards a goal location that may be inferred only thought partial observations. We assume mixed observable settings, where the system's state is fully observable and the environment's state defining the goal location is only partially observable. This repo can be used to reproduce the result from [1].
 
 ## Example 1: Mixed Observable Regulation Problem
-In this example, the environment is static and the set of partially observable states $`\mathcal{E} = \{0, 1\}`$, and the goal location is a function of the partially observable environment state:
+In this example, the environment is static and the set of partially observable states <pre xml:lang="latex">\mathcal{E} = \{0, 1\}</pre>, and the goal location is a function of the partially observable environment state:
 $$
     x_g^{(0)} = \begin{bmatrix*}[r] 14 \\ 8 \\ 0 \\ 0 \end{bmatrix*} \text{ and } x_g^{(1)} = \begin{bmatrix*}[r] 14 \\ -8 \\ 0 \\ 0 \end{bmatrix*}.
 $$
