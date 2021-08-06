@@ -14,10 +14,11 @@ The environment state, and consequently the goal location, is unknwon and it sho
 
 ## Example 2: Partially Observable Navigation Problem
 
-In this example, the environment is static and there are two environment states: e = 1 and e = 2 (each one associated with a goal location as shown in the figure below).
-Also in this case, the environment state is unknwon and it should be inferred from partial observations. The accuracy of the sensors is a function of the system's position, for more details about the observation model please refer to [1].
+In this example, the environment is static and there are two environment states: e = 1 and e = 2 (each one associated with a goal location as shown in the figure below). The main difference compared to the previous example is that a few obstacles (black boxes) are present in the environment.
+Also in this case, the environment state is unknown and it should be inferred from partial observations. The accuracy of the sensors is a function of the system's position, for more details about the observation model please refer to [1].
+
 <p align="center">
-<img src="https://github.com/urosolia/mixed-observable-LQR/blob/main/figures/navigation.png" width="500" />
+<img src="https://github.com/urosolia/mixed-observable-LQR/blob/main/figures/navigation.png" width="700" />
 </p>
 
 
